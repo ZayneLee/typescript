@@ -1,5 +1,2 @@
-interface Obj {
-  [key: string]: number;
-}
-
-const a: Record<string, number> = { a: 3, b: 5, c: 7 };
+// let arr = [1,2,3,4,5];
+// const [one,two,t] = arr
