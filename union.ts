@@ -17,6 +17,6 @@
 // type A = { hello: "world" } & { zayne: "lee" };
 // const a: A = { hello: "world", zayne: "lee" };
 
-type A = string | number;
-const a: A = 5;
-const b: A = "hello";
+// type A = string | number;
+// const a: A = 5;
+// const b: A = "hello";
